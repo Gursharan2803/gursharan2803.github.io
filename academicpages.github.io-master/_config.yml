@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gursharan Singh / Site Title"
+title                    : "Hello .."
 title_separator          : "-"
 name                     : &name "Gursharan Singh"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gursharan2803.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Gursharan singh"
+  name             : "Gursharan Singh"
   pronouns         : # example: "she/her"
   bio              : "Computational physicist - Using Machine learning for building applications in High energy and astronomy and astrophysics [asteroseismology]"
   location         : "India"
-  employer         : "Tata Institute of Fundamental Research - Mumbai 400005 "
+  employer         : "Tata Institute of Fundamental Research - Mumbai 400005"
   uri              : # URL
   email            : "gursharansingh1010@gmail.com"
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "https://github.com/Gursharan2803"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,6 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "linkedin.com/in/gursharan-singh-8393291a0"
-  github           : "https://github.com/Gursharan2803"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
